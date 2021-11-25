@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/housing-completion/static/css/main.dc6b3d9c.chunk.css",
+    "main.js": "/housing-completion/static/js/main.67061453.chunk.js",
+    "main.js.map": "/housing-completion/static/js/main.67061453.chunk.js.map",
+    "runtime-main.js": "/housing-completion/static/js/runtime-main.57ffdbb1.js",
+    "runtime-main.js.map": "/housing-completion/static/js/runtime-main.57ffdbb1.js.map",
+    "static/js/2.2e5e2a7c.chunk.js": "/housing-completion/static/js/2.2e5e2a7c.chunk.js",
+    "static/js/2.2e5e2a7c.chunk.js.map": "/housing-completion/static/js/2.2e5e2a7c.chunk.js.map",
+    "index.html": "/housing-completion/index.html",
+    "static/css/main.dc6b3d9c.chunk.css.map": "/housing-completion/static/css/main.dc6b3d9c.chunk.css.map",
+    "static/js/2.2e5e2a7c.chunk.js.LICENSE.txt": "/housing-completion/static/js/2.2e5e2a7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/housing-completion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57ffdbb1.js",
+    "static/js/2.2e5e2a7c.chunk.js",
+    "static/css/main.dc6b3d9c.chunk.css",
+    "static/js/main.67061453.chunk.js"
+  ]
+}
